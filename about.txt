@@ -1,3 +1,4 @@
-name: Nursultan
+name: Nurel
 Course: sca-23c
-Favorite programming language : Javascript
+Favorite programming language : Pyhon
+sdfddvddsv
